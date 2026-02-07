@@ -1,4 +1,4 @@
-# sup,
+# Hello,
 
 I work with my hands during the day and tinker with code, circuits, and ideas the rest of the time. I’m drawn to the places where physical work meets technology — welding automation, robotics, mini computers, AI tools that will change how we operate.
 
